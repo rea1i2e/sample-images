@@ -1,0 +1,7 @@
+@use 'global' as *;
+@use 'sass:math';
+
+.p-image-item__file-name {
+  margin-top: rem(10);
+  text-align: center;
+}
